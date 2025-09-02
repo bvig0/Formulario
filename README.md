@@ -7,17 +7,6 @@ O objetivo é criar uma página de formulário que pode ser usada como base para
 - **HTML5** → estrutura do formulário  
 - **CSS3** → estilização e responsividade  
 
-## 📂 Estrutura de Pastas
-📦 formulario  
- ┣ 📂 css  
- ┃ ┗ 📜 config.css 
- ┃ ┗ 📜 style.css  
- ┣ 📂 img  
- ┃ ┗ icone.png
- 
- ┣ 📜 index.html  
- ┗ 📜 README.md
-
  # 📝 Funcionalidades do Formulário
 
 ## 🔧 Funcionalidades
