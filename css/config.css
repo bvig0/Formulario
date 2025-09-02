@@ -1,0 +1,19 @@
+/* CONFIGURAÇÕES PADRÕES */
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*  */
+:root {
+    --cor-preto: #000;
+    --cor-branco: #fff;
+    --cor-cinza: #ddd;
+    --cor-fonte: #333;
+    --cor-fonteClara: #707070;
+    --cor-lilas: #d465f0;
+    --cor-roxo: #84259c;
+}
