@@ -60,7 +60,7 @@ body {
     border: 1px solid var(--cor-roxo);
 }
 
-.input-box input:focus::placeholder{
+.input-box input:focus::placeholder {
     color: var(--cor-lilas);
 }
 
@@ -142,4 +142,7 @@ body {
         row-gap: 15px;
     }
 
+    .form button {
+        margin: 25px 10px 0 10px;
+    }
 }
