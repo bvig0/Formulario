@@ -55,10 +55,9 @@ body {
 }
 
 .input-box input:focus {
-    box-shadow: 0 2px 0 var(--cor-roxo);
-    border: 2px solid var(--cor-lilas);
     color: var(--cor-lilas);
-    accent-color: var(--cor-lilas);
+    box-shadow: 0 1px 0 var(--cor-lilas);
+    border: 1px solid var(--cor-roxo);
 }
 
 .input-box input:focus::placeholder{
