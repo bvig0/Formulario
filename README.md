@@ -4,7 +4,7 @@ Este repositório contém um projeto de **formulário simples e responsivo**, de
 O objetivo é criar uma página de formulário que pode ser usada como base para cadastros, login ou coleta de informações em sites.
 
 ## 📌 Demonstração
-🔗 [Clique aqui para visualizar o formulário](https://seu-link-do-projeto.com)
+🔗 [Clique aqui para visualizar o formulário]([https://seu-link-do-projeto.com](https://bvig0.github.io/Formulario/))
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** → estrutura do formulário  
@@ -18,5 +18,5 @@ O objetivo é criar uma página de formulário que pode ser usada como base para
 - Botão de envio estilizado  
 - Design responsivo para mobile e desktop  
 
-### 👨‍💻 Desenvolvido por **Brian Vigo**
+### 👨‍💻 Desenvolvido por Brian Vigo de Oliveira
 
